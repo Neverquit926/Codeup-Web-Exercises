@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>My First HTML Form</title>
+	</head>
+	<body>
+		<form method="POST" action="http://requestb.in/18ve7aa1">
+    		<p>
+        		<label for="username">Username</label>
+        		<input id="username" name="username" type="text" placeholder="Enter username here.">
+    		</p>
+    		<p>
+        		<label for="password">Password</label>
+        		<input id="password" name="password" type="password" placeholder="Enter your Password.">
+    		</p>
+    		<p>
+        		<input type="submit" name="Hello">
+		</form>
+	</body>
+</html>

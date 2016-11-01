@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Hello World!</title>
+		<link rel="stylesheet" type="CSS/Hello World CSS">
+	</head>
+	<body>
+		<a id="top"></a>
+		<h1>Hello World</h1>
+		<p>Hello, my name is Ruben. Here are some fun facts about me:</p>
+		<ol>
+			<li>I'm learning to code.</li>
+			<li>I like to play basketball.</li>
+		</ol>
+		<h2>My Favorite Quote</h2>
+		<blockquote>Just Do It.
+		-Nike<blockquote>	
+		<h2>I'm learning full stack web development.</h2>
+		<ul>
+			<li>L:  Linux</li>
+			<li>A:  Apache</li>
+			<li>M:  MySQL</li>
+			<li>P:  PHP</li>
+		</ul>
+		<h2>My Top 5 Favorite Foods</h2>
+		<ol>
+			<li>Pizza</li>
+			<li>Lasagna</li>
+			<li>Spaghetti</li>
+			<li>Fettucini Alfredo</li>
+			<li>Peanut Butter</li>
+		</ol>
+		<h2>Questions I'm Often Asked</h2>
+		<dl>
+			<dt>How Tall Are You?<dt>
+			<dd>I am 6'3<dd>
+			<dt>What Nationality Are You?<dt>
+			<dd>I am Puerto Rican.<dd>
+		</dl>
+		<h2>My Favorite Websites</h2>
+		<ul>
+			<li><a href="http://www.google.com"
+			target=" blank">Google</a></li>
+			<li><a href="http://www.msn.com"
+			target=" blank">MSN</a></li>
+			<li><a href="http://www.hoopshype.com"
+			target=" blank">HoopsHype</a></li>
+		</ul>	
+		<h2>My Dream Vehicle</h2>
+		<p>I would love to drive the new 7 series.  It is fast, luxurious and technologically advanced.  Here is a photo.</p>	
+		<img src="img/7 series.jpg" alt="My Dream Car">
+		<a href="#top">Back to top.</a>		
+	</body>
+</html>				

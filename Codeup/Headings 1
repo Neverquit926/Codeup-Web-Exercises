@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Hello World</title>
+		<link href='https://fonts.googleapis.com/css?family=Indie+Flower'
+		rel-'stylesheet' type='text/css'>
+		<style>
+
+		h1, h2 {
+		    text-decoration: underline;
+		}
+	</head>
+	<body>
+		<h1>Hello World</h1>
+		<p>Hello, my name is Ruben. Here are some fun facts about me:<br>
+			I'm learning to code.<br>
+			I like to play basketball. 
+		</p>
+		<h2>My Favorite Quote</h2>
+		<blockquote>Just Do It.
+		-Nike<blockquote>	
+	</body>
+</html>				

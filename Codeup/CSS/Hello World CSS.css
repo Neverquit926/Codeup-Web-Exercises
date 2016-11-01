@@ -1,0 +1,32 @@
+
+    h1,h2 {
+        color: blue;
+        text-decoration: underline;
+    }
+
+    body {
+        font-family: "Indie Flower";
+        background-image: url("img/7 series.jpg");
+    }
+
+    ul {
+        list-style: square;
+    }
+
+    th, td {
+        padding: 2px;
+    }
+
+    th {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    a:link {
+        color:red;
+    }
+
+    a:visited {
+        color:black;
+    }
+

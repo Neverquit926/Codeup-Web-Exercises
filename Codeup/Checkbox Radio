@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>My First HTML Form</title>
+	</head>
+	<body>
+		<h2>Login Form</h2>
+		<form method="POST" action="http://requestb.in/18ve7aa1">
+			<input type="checkbox" id="mailing_list" name="mailing_list" value="yes">
+			<label for="mailing_list">Sign me up for the mailing list!</label>
+
+			<p>What operating systems have you used?</p>
+			<label><input type="checkbox" id="os1" name="os[]" value="linux"> Linux</label>
+			<label><input type="checkbox" id="os2" name="os[]" value="osx"> OS X</label>
+			<label><input type="checkbox" id="os3" name="os[]" value="windows"> Windows</label>
+
+			<button type="submit">Submit</button>
+		</form>
+	</body>
+</html>

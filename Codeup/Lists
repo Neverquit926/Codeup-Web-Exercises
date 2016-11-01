@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Hello World</title>
+	</head>
+	<body>
+		<h1>Hello World</h1>
+		<p>Hello, my name is Ruben. Here are some fun facts about me:</p>
+		<ol>
+			<li>I'm learning to code.<br>
+			<li>I like to play basketball. 
+		</ol>
+		<h2>My Favorite Quote</h2>
+		<blockquote>Just Do It.
+		-Nike<blockquote>	
+	</body>
+</html>				
